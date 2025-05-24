@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-autho:Adnan Khan
+title: Welcome to my Site
+
 ---
 
